@@ -1,0 +1,10 @@
+a=10
+b=2
+s=a+b
+print(s)
+d=a-b
+print(d)
+m=a*b
+print(m)
+q=a/b
+print(q)
